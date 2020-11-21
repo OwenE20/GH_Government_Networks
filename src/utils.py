@@ -26,7 +26,7 @@ oauth = os.getenv('GHUB_OAUTH')
 headers = {"Authorization": f"token {oauth}"}
             
 def iterate_pages(query, args):
-   """
+    """
    Function that passes the API query and loops through the pages, appending
    the results and returning a list with all of the call results
 

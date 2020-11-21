@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605890983518.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "93952C40",
+    "lastKnownWriteTime" : 25895938379939891,
+    "last_content_update" : 1605890983518,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3937529B",
+        "caption" : "repo_results",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=repo_results&cache_key=3937529B",
+        "displayedObservations" : "8394",
+        "environment" : "",
+        "object" : "repo_results",
+        "preview" : "0",
+        "totalObservations" : "8394",
+        "variables" : "10"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605814654005.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2011644523",
+    "id" : "41FF72A9",
+    "lastKnownWriteTime" : 1605892544,
+    "last_content_update" : 1605892544834,
+    "path" : "C:/Users/Mikes_Surface2/PycharmProjects/Gov_Social_Coding_Replication/R-Scripts/explore.R",
+    "project_path" : "explore.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

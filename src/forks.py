@@ -16,7 +16,15 @@ import traceback
 
 class Fork_Network:
     
+    """
+    Class that represents the network created by org-org fork relationships
+    
+    
+    """
+    
+    
     def __init__(self, built):
+        
         fork_fields = ["watchers_count","created_at","updated_at","pushed_at"]
         gov_devs = Government_Collaborators(True).get_members()
         go = GovernmentOrganiations()
@@ -135,15 +143,5 @@ class Fork_Network:
             
         else:
   """      
-
-
-fn = Fork_Network(True)
-
-from networks import network_construction
-
-fork_net = network_construction(False,fn.fork_list,("repo_org","forker_org"),"fork_networkx")
-
-fork_net.draw_network()
-deg = fork_net.return_degrees()
-
-
+  
+  
